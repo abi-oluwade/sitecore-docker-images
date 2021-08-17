@@ -1,0 +1,4 @@
+# Auto detect text files
+* text=auto
+# Perform LF normalization on shell scripts (required when used as ENTRYPOINT in Docker)
+*.sh text eol=lf
